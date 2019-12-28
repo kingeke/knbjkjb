@@ -1,0 +1,14 @@
+[
+    {
+        "brand": "Audi",
+        "models": ["100 Avabt", "A1"]
+    },
+    {
+        "brand": "Toyota",
+        "models": ["Corolla", "Camry"]
+    },
+    {
+        "brand": "BMW",
+        "models": ["i3", "i8"]
+    }
+]
